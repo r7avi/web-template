@@ -19,7 +19,7 @@ import defaultConfig from './config/configDefault';
 import appSettings from './config/settings';
 import configureStore from './store';
 
-// utils
+// utils //
 import { RouteConfigurationProvider } from './context/routeConfigurationContext';
 import { ConfigurationProvider } from './context/configurationContext';
 import { mergeConfig } from './util/configHelpers';
